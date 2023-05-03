@@ -9,4 +9,3 @@ import android.os.Bundle
             setContentView(R.layout.medtech_medicine_registration)
         }
     }
-}
