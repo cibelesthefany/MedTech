@@ -3,4 +3,6 @@
     <string name="medicine_registration">Registre os seus medicamentos no MedTech e nunca mais esqueça de tomá-los</string>
     <string name="medicine_registration_name_hint">Informe o nome do medicamento aqui</string>
     <string name="medicine_registration_hours">Qual horário você gostaria de ser lembrado?</string>
+    <string name="salvar">salvar</string>
+    <string name="add_new">adicionar novo</string>
 </resources>
